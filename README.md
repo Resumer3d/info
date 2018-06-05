@@ -1,4 +1,4 @@
-# Resumer3D moduleï¼?The firmware and documents will be update here!
+# Resumer3D module? The firmware and documents will be update here!
 
 Resume your interrupted 3D prints from any printed layer automatically.
  
