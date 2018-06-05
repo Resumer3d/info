@@ -1,4 +1,4 @@
-#Here is our kickstarter project online now https://www.kickstarter.com/projects/resumer3d/resumer-3d-resume-your-interrupted-3d-prints-autom
+# kickstarter https://www.kickstarter.com/projects/resumer3d/resumer-3d-resume-your-interrupted-3d-prints-autom
 
 # Resumer3D module? The firmware and documents will be update here!
 
