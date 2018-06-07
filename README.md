@@ -10,14 +10,14 @@ Creality 3D | 	All Models | 	Compatible
 Anycubic | 	i3 Mega	 | Compatible
 Geeetech	 | Prusa i3 ProB, MeCreator2	 | Compatible
 Anet	 | All Models	 | Compatible
-Wanhao	 | i3	 | Compatible, but not Tested/Verified
+Wanhao	 | i3	 | Compatible, Testing
 CTC	 | i3	 | Compatible
 JGAURORA	 | A3	 | Compatible
-BQ	 | Witbox and Witbox 2	 | Compatible, but not Tested/Verified
-BQ	 | Hephestos, Hephestos 2, and Prusa i3	 | Compatible, but not Tested/Verified
-Snapmaker | 	Snapmaker 3D printer	 | Compatible, but not Tested/Verified
-Tevo	 | All Models | 	Compatible, but not Tested/Verified
-Ultimaker | 	Ultimaker /Ultimaker 2 (all models) | 	Compatible, but not Tested/Verified
+BQ	 | Witbox and Witbox 2	 | Compatible, Testing
+BQ	 | Hephestos, Hephestos 2, and Prusa i3	 | Compatible, Testing
+Snapmaker | 	Snapmaker 3D printer	 | Compatible, but Testing
+Tevo	 | All Models | 	Compatible, but Testing
+Ultimaker | 	Ultimaker /Ultimaker 2 (all models) | 	Compatible, Testing
 
 
 ### Don't see your 3D Printer? 
