@@ -18,6 +18,24 @@ BQ	 | Hephestos, Hephestos 2, and Prusa i3	 | Compatible, Testing
 Snapmaker | 	Snapmaker 3D printer	 | Compatible, Testing
 Tevo	 | All Models | 	Compatible, Testing
 Ultimaker | 	Ultimaker /Ultimaker 2 (all models) | 	Compatible, Testing
+FlSUN	| | 	
+Tronxy | 	X3 X5s	| testing
+HICTOP	| | 	
+Athorbot| | 		
+CoLiDo	| | 	
+REPRAPGURU| 	Prusa i3 	| Compatible 
+Hypercube| 		| testing
+Rigidbot| 		| testing
+Original i3| 		| testing
+Lulzbot| 		| testing
+M3D| 		| testing
+MOOZ| 		| testing
+Rigidbot| 		| testing
+Robo| 	C2  R1+  R2 plus	| testing
+Stacker|  	500S	| testing
+Voron| 	2	| testing
+Xl printer| 		| testing
+Monoprice| 		| Incompatiable 
 
 
 ### Don't see your 3D Printer? 
