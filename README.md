@@ -1,15 +1,10 @@
-# Resumer3D  [kickstarter](https://www.kickstarter.com/projects/resumer3d/resumer-3d-resume-your-interrupted-3d-prints-autom)
+# Resumer3D  [kickstarter](https://www.kickstarter.com/projects/resumer3d/resumer-3d-resume-your-interrupted-3d-prints-autom)[hackaday](https://hackaday.io/project/28672-magical-box-for-resuming-3d-prints-automatically)
 
 Resume your interrupted 3D prints from any printed layer automatically.
 Allows a print to be recovered after certain types of failure.
-possible causes:
-tangle/filament break; nozzle jam; power outage.
-Compatibility:
- Resumer 3D is compatible with marlin firmware based 3D printer, printing with SD card.
-Monitor:
- With this monitor box we can rescue a failed 3D print job automatically by press the OK button . Becuase of that it not just can detect the power off£¬but also can record every layer 's information (through USB cable) while SD printing. Thanks for Hackaday!!!
-
-you can also see more details from here:[hackaday](https://hackaday.io/project/28672-magical-box-for-resuming-3d-prints-automatically)
+possible causes:tangle/filament break; nozzle jam; power outage.
+compatible with marlin firmware based 3D printer, printing with SD card.
+we can rescue a failed 3D print job automatically by press the OK button . 
 
 ### 3D Printer Compatibility with Resumer 3D
 Manufacturer | Model | Resumer 3D
