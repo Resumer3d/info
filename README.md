@@ -5,7 +5,7 @@ compatible with marlin firmware based 3D printer, printing with SD card.
 we can rescue a failed 3D print job automatically by press the OK button . 
 
 ## How Resumer 3D Works
-[![Opensource](https://github.com/Resumer3d/info/blob/master/image/how.png)]
+![Opensource](https://github.com/Resumer3d/info/blob/master/image/how.png)
 
 ### 3D Printer Compatibility with Resumer 3D
 Manufacturer | Model | Resumer 3D
