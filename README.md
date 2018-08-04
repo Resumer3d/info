@@ -47,7 +47,7 @@ That's ok, it may still be compatible!If you know your 3D printer's firmware: Yo
 
 firmware	 | USB chip
 --- | ---
-Marlin	 | PL2303/CP2102/FT232/CH340/CH341/ Atmega16u2
+Marlin	 | FT232/PL2303/CP2102/FT232/CH340/CH341/Atmega16u2/Atmega32u2
 	
 
 
