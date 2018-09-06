@@ -3,6 +3,19 @@ Resume your interrupted 3D prints from any printed layer automatically.
 possible causes:tangle/filament break; nozzle jam; power outage.
 compatible with marlin firmware based 3D printer, printing with SD card.
 we can rescue a failed 3D print job automatically by press the OK button . 
+## Where can I get a resumer 3D ? 
+
+eBay: https://www.ebay.com/itm/132757128584 
+
+Amazon.co.uk: https://amzn.to/2NR1OZY
+
+Amazon.de: https://amzn.to/2wMKlv8
+
+Amazon.fr: https://amzn.to/2MPb58g
+
+Amazon.it: https://amzn.to/2MNvNWh
+
+Amazon.es: https://amzn.to/2NTNEHE
 
 ## How Resumer 3D Works
 ![Opensource](https://github.com/Resumer3d/info/blob/master/image/how.png)
