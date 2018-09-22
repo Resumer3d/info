@@ -34,7 +34,7 @@ CTC	 | i3	 | Compatible
 JGAURORA	 | A3	 | Compatible
 BQ	 | Witbox and Witbox 2	 | Compatible, Testing
 BQ	 | Hephestos, Hephestos 2, and Prusa i3	 | Compatible, Testing
-Snapmaker | 	Snapmaker 3D printer	 | Compatible, Testing
+Snapmaker | 	Snapmaker 3D printer	 | Compatible, Tested
 Tevo	 | All Models | 	Compatible, Testing
 Ultimaker | 	Ultimaker /Ultimaker 2 (all models) | 	Compatible, Testing
 FlSUN	| | 	
