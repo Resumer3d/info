@@ -20,6 +20,8 @@ Amazon.es: https://amzn.to/2NTNEHE
 ## How Resumer 3D Works
 ![Opensource](https://github.com/Resumer3d/info/blob/master/image/how.png)
 
+download here:http://39.104.49.76/resumer3d/
+
 ### 3D Printer Compatibility with Resumer 3D
 Manufacturer | Model | Resumer 3D
 --- | --- | --- 
