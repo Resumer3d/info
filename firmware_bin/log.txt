@@ -1,3 +1,16 @@
-v1.1.3 : 
+v1.1.0:
+first release
+
+v1.1.1:
+not stable
+
+v1.1.2:
+1)support octopi print;
+2)heat bed first while resuming;
+3)support no bed printer; 
+4)optimizte probe printer time;
+5)support send gcode M5000 buadrate on MAC & windows on old version of repetier-host.
+
+v1.1.3:
 1) move extruder away and disable all motors and heat, after filament run out ;
 2) open fan after resuming.
